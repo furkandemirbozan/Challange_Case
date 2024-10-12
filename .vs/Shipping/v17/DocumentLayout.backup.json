@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069C414E-5A3C-4C48-BF3F-9D53EF8812E7}|src\\Infrastructure\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.infrastructure\\services\\orders\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069C414E-5A3C-4C48-BF3F-9D53EF8812E7}|src\\Infrastructure\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj|solutionrelative:src\\infrastructure\\shipping.infrastructure\\services\\orders\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.persistence\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|solutionrelative:src\\infrastructure\\shipping.persistence\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5D25D1-36ED-4402-B629-4E97F032F477}|src\\Core\\Shipping.Domain\\Shipping.Domain.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5D25D1-36ED-4402-B629-4E97F032F477}|src\\Core\\Shipping.Domain\\Shipping.Domain.csproj|solutionrelative:src\\core\\shipping.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069C414E-5A3C-4C48-BF3F-9D53EF8812E7}|src\\Infrastructure\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.infrastructure\\jobs\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069C414E-5A3C-4C48-BF3F-9D53EF8812E7}|src\\Infrastructure\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj|solutionrelative:src\\infrastructure\\shipping.infrastructure\\jobs\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|solutionrelative:src\\core\\shipping.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.application\\dtos\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|solutionrelative:src\\core\\shipping.application\\dtos\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\presentation\\shipping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|solutionrelative:src\\presentation\\shipping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\presentation\\shipping.api\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|solutionrelative:src\\presentation\\shipping.api\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.application\\jobs\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|solutionrelative:src\\core\\shipping.application\\jobs\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.application\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|solutionrelative:src\\core\\shipping.application\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5D25D1-36ED-4402-B629-4E97F032F477}|src\\Core\\Shipping.Domain\\Shipping.Domain.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.domain\\entities\\carrierreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5D25D1-36ED-4402-B629-4E97F032F477}|src\\Core\\Shipping.Domain\\Shipping.Domain.csproj|solutionrelative:src\\core\\shipping.domain\\entities\\carrierreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.persistence\\context\\shippingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|solutionrelative:src\\infrastructure\\shipping.persistence\\context\\shippingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\presentation\\shipping.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|solutionrelative:src\\presentation\\shipping.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.persistence\\entityconfigurations\\carrierconfigurationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|solutionrelative:src\\infrastructure\\shipping.persistence\\entityconfigurations\\carrierconfigurationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\core\\shipping.application\\services\\orders\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E641B4E-9A0D-4AD5-B36D-66C3A947BB27}|src\\Core\\Shipping.Application\\Shipping.Application.csproj|solutionrelative:src\\core\\shipping.application\\services\\orders\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\presentation\\shipping.api\\controllers\\carrierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|solutionrelative:src\\presentation\\shipping.api\\controllers\\carrierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\presentation\\shipping.api\\controllers\\carrierconfigurationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45C7B8-3C94-47A7-809E-FA83DA581493}|src\\Presentation\\Shipping.API\\Shipping.API.csproj|solutionrelative:src\\presentation\\shipping.api\\controllers\\carrierconfigurationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\onion_challange_case\\shipping\\src\\infrastructure\\shipping.persistence\\shipping.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{960D905B-E95D-4B56-88CE-D1C97C4F3A86}|src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj|solutionrelative:src\\infrastructure\\shipping.persistence\\shipping.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Infrastructure\\Services\\Orders\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Infrastructure\\Services\\Orders\\OrderService.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Infrastructure\\Services\\Orders\\OrderService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Infrastructure\\Services\\Orders\\OrderService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:45:56.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Infrastructure\\Jobs\\JobService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Infrastructure\\Jobs\\JobService.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Infrastructure\\Jobs\\JobService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Infrastructure\\Jobs\\JobService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:31:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Extensions\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Shipping.API\\Extensions\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Extensions\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Presentation\\Shipping.API\\Extensions\\ServiceRegistration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:25:43.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Shipping.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Program.cs",
+              "RelativeToolTip": "src\\Presentation\\Shipping.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:28:24.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Jobs\\IJobService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Application\\Jobs\\IJobService.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Jobs\\IJobService.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Application\\Jobs\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:31:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:37:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:39:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Domain\\Entities\\Carrier.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Domain\\Entities\\Carrier.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Domain\\Entities\\Carrier.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Domain\\Entities\\Carrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:52:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Persistence\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Persistence\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:37:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarrierReport.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Domain\\Entities\\CarrierReport.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Domain\\Entities\\CarrierReport.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Domain\\Entities\\CarrierReport.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Domain\\Entities\\CarrierReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:15:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShippingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Context\\ShippingDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Persistence\\Context\\ShippingDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Context\\ShippingDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Persistence\\Context\\ShippingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:20:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Application\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Application\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:37:17.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarriersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\CarriersController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Shipping.API\\Controllers\\CarriersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\CarriersController.cs",
+              "RelativeToolTip": "src\\Presentation\\Shipping.API\\Controllers\\CarriersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:35:48.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Shipping.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "src\\Presentation\\Shipping.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:31:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarrierConfigurationEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\EntityConfigurations\\CarrierConfigurationEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Persistence\\EntityConfigurations\\CarrierConfigurationEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\EntityConfigurations\\CarrierConfigurationEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Persistence\\EntityConfigurations\\CarrierConfigurationEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:51:36.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Services\\Orders\\IOrderService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Shipping.Application\\Services\\Orders\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Core\\Shipping.Application\\Services\\Orders\\IOrderService.cs",
+              "RelativeToolTip": "src\\Core\\Shipping.Application\\Services\\Orders\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:27:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarrierConfigurationsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\CarrierConfigurationsController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Shipping.API\\Controllers\\CarrierConfigurationsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Presentation\\Shipping.API\\Controllers\\CarrierConfigurationsController.cs",
+              "RelativeToolTip": "src\\Presentation\\Shipping.API\\Controllers\\CarrierConfigurationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:35:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shipping.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\Onion_Challange_Case\\Shipping\\src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Shipping.Persistence\\Shipping.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T00:24:18.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
